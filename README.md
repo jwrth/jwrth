@@ -4,4 +4,4 @@ Doctoral Researcher at Helmholtz Pioneer Campus interested in interdisciplinary 
 Currently working in the field of spatial transcriptomics 🗺️.
 <br>
 
-👯 I'm looking for collaborators and groups for a possible future PostDoc to discuss and develop ways to use multi-omics data to have a direct impact on clinical problems 💊.
+I'm looking for collaborators and groups for a possible future PostDoc to discuss and develop ways to use multi-omics data to have a direct impact on clinical problems 💊.
